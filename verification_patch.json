@@ -1,0 +1,72 @@
+[
+  {
+    "dataset": "BE",
+    "windows": 311,
+    "raw": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 1.7881393432617188e-07
+    },
+    "patch": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 0.0
+    }
+  },
+  {
+    "dataset": "NP",
+    "windows": 311,
+    "raw": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 1.7881393432617188e-07
+    },
+    "patch": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 0.0
+    }
+  },
+  {
+    "dataset": "DE",
+    "windows": 311,
+    "raw": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 1.7881393432617188e-07
+    },
+    "patch": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 0.0
+    }
+  },
+  {
+    "dataset": "PJM",
+    "windows": 311,
+    "raw": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 2.384185791015625e-07
+    },
+    "patch": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 0.0
+    }
+  },
+  {
+    "dataset": "FR",
+    "windows": 311,
+    "raw": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 2.384185791015625e-07
+    },
+    "patch": {
+      "official_exact_parity": true,
+      "base_lag_exact_parity": true,
+      "base_score_max_absolute_difference": 0.0
+    }
+  }
+]

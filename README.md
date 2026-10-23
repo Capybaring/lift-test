@@ -1,3 +1,15 @@
+# 新增：原始序列与 12 小时 patch 的循环 LIFT 对比
+
+```bash
+python compare_patch.py --data-dir ../../DAG/dataset/forecasting/ --datasets BE NP DE PJM FR --patch-hours 12 --output ./comparison_results
+```
+
+每个历史窗口先分别计算原始小时值的滞后和 patch 均值序列的滞后，输出成对 CSV 和小时分布对比图；不使用 TTCN。历史 168 h、未来 24 h、窗口步长 168 h。默认 patch 宽度和 patch 步长均为 12 h，可用 `--patch-stride-hours` 单独指定后者。
+
+实现细节、两个仓库与官方的关系及验证说明见 [PATCH_COMPARE.md](PATCH_COMPARE.md)。原始 `lift_weekly.py` 命令继续可用，并新增 BE 支持。
+
+---
+
 # NP / DE / PJM / FR 循环 LIFT 滞后估计
 
 沿用用户确认的设置：历史 168 h，未来 24 h，滑动步长 168 h（7 天），只计算外生→OT。每个数据集独立；按精确 1 h 绘图，不使用 patch 单位。CPU 运行，无需 GPU。

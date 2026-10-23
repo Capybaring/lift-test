@@ -26,6 +26,7 @@ L = 168
 H = 24
 STRIDE = 168
 DATASETS = {
+    "BE": [" Generation forecast", " System load forecast"],
     "NP": [" Grid load forecast", " Wind power forecast"],
     "DE": [" Wind power forecast", " Ampirion zonal load forecast"],
     "PJM": [" System load forecast", " Zonal COMED load foecast"],
@@ -82,23 +83,24 @@ def instance_norm(ts, dim=-1):
 
 @torch.no_grad()
 def lead_estimator(history):
-    """history [B,3,L], channels=[generation,load,OT], float32 CPU.
+    """history [B,3,length], channels=[exogenous_0,exogenous_1,OT].
 
     Same target-specific entries as upstream cross_corr_coef/estimate_indicator:
     only the broadcast indices are restricted to OT x two exogenous channels.
     Retain masked zero scores, first-maximum ties and the upstream lag=1 fallback.
     """
-    if history.ndim != 3 or history.shape[1:] != (3, L):
-        raise ValueError(f"Expected [B,3,{L}], got {tuple(history.shape)}")
+    if history.ndim != 3 or history.shape[1] != 3 or history.shape[-1] < 3:
+        raise ValueError(f"Expected [B,3,length>=3], got {tuple(history.shape)}")
+    length = history.shape[-1]
     normalized, _, _ = instance_norm(history, -1)
     rfft = torch.fft.rfft(normalized, dim=-1)
     cross_corr = torch.fft.irfft(
-        rfft[:, 2:3] * torch.conj(rfft[:, :2]), dim=-1, n=L)
+        rfft[:, 2:3] * torch.conj(rfft[:, :2]), dim=-1, n=length)
     corr_abs = cross_corr.abs()
     mask = ((corr_abs[..., 1:-1] >= corr_abs[..., :-2]) &
             (corr_abs[..., 1:-1] >= corr_abs[..., 2:]))
     masked = cross_corr[..., 1:-1] * mask
-    masked = masked / L
+    masked = masked / length
     _, shift_index = masked.abs().max(-1)
     score = masked.gather(-1, shift_index.unsqueeze(-1)).squeeze(-1)
     lag = shift_index + 1
@@ -243,7 +245,7 @@ def run_dataset(dataset, source_path, output, batch_size, overwrite):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--datasets", nargs="+", type=str.upper, choices=list(DATASETS),
-                        default=list(DATASETS), help="Default: NP DE PJM FR")
+                        default=["NP", "DE", "PJM", "FR"], help="Default: NP DE PJM FR; BE also supported")
     parser.add_argument("--data-dir", type=Path, default=Path.home() / "Downloads/dataset",
                         help="Folder containing CSVs, or its parent containing forecasting/")
     parser.add_argument("--input", type=Path, help="Exact CSV path; requires exactly one dataset")

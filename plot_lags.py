@@ -106,7 +106,7 @@ def plot_distributions(frame, output, dataset, exogenous, stride_hours=168):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--dataset", required=True, type=str.upper, choices=["NP", "DE", "PJM", "FR"])
+    parser.add_argument("--dataset", required=True, type=str.upper, choices=["BE", "NP", "DE", "PJM", "FR"])
     parser.add_argument("--results", type=Path, required=True)
     parser.add_argument("--output", type=Path)
     parser.add_argument("--stride-hours", type=int, default=168,
