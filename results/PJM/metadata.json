@@ -1,0 +1,46 @@
+{
+  "status": "complete",
+  "dataset": "PJM",
+  "history_length": 168,
+  "forecast_horizon": 24,
+  "stride": 168,
+  "lag_candidates": [
+    1,
+    166
+  ],
+  "endogenous": "OT",
+  "exogenous": [
+    " System load forecast",
+    " Zonal COMED load foecast"
+  ],
+  "retained_exogenous_K": 2,
+  "direction": "exogenous[t-d] corresponds to OT[t]; positive d means exogenous leads",
+  "estimator": "official LIFT circular FFT, local peak mask, same instance_norm and reduction",
+  "scope": "Lead Estimator only; no backbone/refiner training or 24-step value prediction",
+  "scaling": "official instance_norm on raw dataset history; no global StandardScaler or train/test split",
+  "numeric_dtype": "torch.float32",
+  "normalization_epsilon": 1e-08,
+  "source": {
+    "path": "/Users/macbook/Downloads/dataset/forecasting/PJM.csv",
+    "sha256": "14feec9daa86e14ba4ed062c690468fa615af6fb18ba56006149b087e26058e5",
+    "time_points": 52416,
+    "interval_seconds": 3600,
+    "start": "2013-01-01T00:00:00.000000000",
+    "end": "2018-12-24T23:00:00.000000000"
+  },
+  "upstream_commit": "79cf8f157bb9a616c9733daf1e9c2cfefdc98c94",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "torch": "2.14.1",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "windows": 311,
+  "rows": 622,
+  "plot_units": "hours",
+  "plot_files": [
+    "/Users/macbook/.codex/.chatgpt-projects/g-p-6aa3cf1c4f848191bd0e22dbb72a0b1a/deliverables/lift_four_circular_weekly/results/PJM/plots/PJM_lag_distribution_hours.png",
+    "/Users/macbook/.codex/.chatgpt-projects/g-p-6aa3cf1c4f848191bd0e22dbb72a0b1a/deliverables/lift_four_circular_weekly/results/PJM/plots/PJM_lag_distribution_hours.svg"
+  ],
+  "first_forecast_start": "2013-01-08T00:00:00.000000000",
+  "last_forecast_end": "2018-12-18T23:00:00.000000000",
+  "elapsed_seconds": 0.454
+}

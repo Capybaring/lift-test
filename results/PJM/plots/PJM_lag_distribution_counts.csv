@@ -1,0 +1,333 @@
+exogenous,lag_hours,windows,fraction,percent
+ System load forecast,1,2,0.006430868167202572,0.6430868167202572
+ System load forecast,2,0,0.0,0.0
+ System load forecast,3,0,0.0,0.0
+ System load forecast,4,0,0.0,0.0
+ System load forecast,5,0,0.0,0.0
+ System load forecast,6,0,0.0,0.0
+ System load forecast,7,0,0.0,0.0
+ System load forecast,8,0,0.0,0.0
+ System load forecast,9,0,0.0,0.0
+ System load forecast,10,0,0.0,0.0
+ System load forecast,11,0,0.0,0.0
+ System load forecast,12,1,0.003215434083601286,0.3215434083601286
+ System load forecast,13,0,0.0,0.0
+ System load forecast,14,0,0.0,0.0
+ System load forecast,15,0,0.0,0.0
+ System load forecast,16,0,0.0,0.0
+ System load forecast,17,0,0.0,0.0
+ System load forecast,18,0,0.0,0.0
+ System load forecast,19,0,0.0,0.0
+ System load forecast,20,0,0.0,0.0
+ System load forecast,21,0,0.0,0.0
+ System load forecast,22,0,0.0,0.0
+ System load forecast,23,4,0.012861736334405145,1.2861736334405145
+ System load forecast,24,46,0.14790996784565916,14.790996784565916
+ System load forecast,25,1,0.003215434083601286,0.3215434083601286
+ System load forecast,26,0,0.0,0.0
+ System load forecast,27,0,0.0,0.0
+ System load forecast,28,0,0.0,0.0
+ System load forecast,29,0,0.0,0.0
+ System load forecast,30,2,0.006430868167202572,0.6430868167202572
+ System load forecast,31,0,0.0,0.0
+ System load forecast,32,0,0.0,0.0
+ System load forecast,33,0,0.0,0.0
+ System load forecast,34,0,0.0,0.0
+ System load forecast,35,0,0.0,0.0
+ System load forecast,36,10,0.03215434083601286,3.215434083601286
+ System load forecast,37,0,0.0,0.0
+ System load forecast,38,0,0.0,0.0
+ System load forecast,39,0,0.0,0.0
+ System load forecast,40,0,0.0,0.0
+ System load forecast,41,2,0.006430868167202572,0.6430868167202572
+ System load forecast,42,0,0.0,0.0
+ System load forecast,43,0,0.0,0.0
+ System load forecast,44,0,0.0,0.0
+ System load forecast,45,0,0.0,0.0
+ System load forecast,46,0,0.0,0.0
+ System load forecast,47,0,0.0,0.0
+ System load forecast,48,3,0.00964630225080386,0.9646302250803859
+ System load forecast,49,0,0.0,0.0
+ System load forecast,50,0,0.0,0.0
+ System load forecast,51,0,0.0,0.0
+ System load forecast,52,0,0.0,0.0
+ System load forecast,53,0,0.0,0.0
+ System load forecast,54,1,0.003215434083601286,0.3215434083601286
+ System load forecast,55,0,0.0,0.0
+ System load forecast,56,0,0.0,0.0
+ System load forecast,57,0,0.0,0.0
+ System load forecast,58,0,0.0,0.0
+ System load forecast,59,0,0.0,0.0
+ System load forecast,60,7,0.022508038585209004,2.2508038585209005
+ System load forecast,61,0,0.0,0.0
+ System load forecast,62,0,0.0,0.0
+ System load forecast,63,0,0.0,0.0
+ System load forecast,64,0,0.0,0.0
+ System load forecast,65,0,0.0,0.0
+ System load forecast,66,0,0.0,0.0
+ System load forecast,67,0,0.0,0.0
+ System load forecast,68,0,0.0,0.0
+ System load forecast,69,0,0.0,0.0
+ System load forecast,70,0,0.0,0.0
+ System load forecast,71,1,0.003215434083601286,0.3215434083601286
+ System load forecast,72,24,0.07717041800643087,7.717041800643087
+ System load forecast,73,0,0.0,0.0
+ System load forecast,74,0,0.0,0.0
+ System load forecast,75,0,0.0,0.0
+ System load forecast,76,1,0.003215434083601286,0.3215434083601286
+ System load forecast,77,0,0.0,0.0
+ System load forecast,78,2,0.006430868167202572,0.6430868167202572
+ System load forecast,79,0,0.0,0.0
+ System load forecast,80,0,0.0,0.0
+ System load forecast,81,0,0.0,0.0
+ System load forecast,82,0,0.0,0.0
+ System load forecast,83,1,0.003215434083601286,0.3215434083601286
+ System load forecast,84,18,0.05787781350482315,5.787781350482315
+ System load forecast,85,0,0.0,0.0
+ System load forecast,86,0,0.0,0.0
+ System load forecast,87,0,0.0,0.0
+ System load forecast,88,0,0.0,0.0
+ System load forecast,89,0,0.0,0.0
+ System load forecast,90,0,0.0,0.0
+ System load forecast,91,0,0.0,0.0
+ System load forecast,92,0,0.0,0.0
+ System load forecast,93,0,0.0,0.0
+ System load forecast,94,0,0.0,0.0
+ System load forecast,95,0,0.0,0.0
+ System load forecast,96,13,0.04180064308681672,4.180064308681672
+ System load forecast,97,0,0.0,0.0
+ System load forecast,98,0,0.0,0.0
+ System load forecast,99,0,0.0,0.0
+ System load forecast,100,0,0.0,0.0
+ System load forecast,101,0,0.0,0.0
+ System load forecast,102,0,0.0,0.0
+ System load forecast,103,0,0.0,0.0
+ System load forecast,104,0,0.0,0.0
+ System load forecast,105,0,0.0,0.0
+ System load forecast,106,0,0.0,0.0
+ System load forecast,107,0,0.0,0.0
+ System load forecast,108,6,0.01929260450160772,1.9292604501607717
+ System load forecast,109,0,0.0,0.0
+ System load forecast,110,0,0.0,0.0
+ System load forecast,111,0,0.0,0.0
+ System load forecast,112,0,0.0,0.0
+ System load forecast,113,0,0.0,0.0
+ System load forecast,114,0,0.0,0.0
+ System load forecast,115,0,0.0,0.0
+ System load forecast,116,0,0.0,0.0
+ System load forecast,117,0,0.0,0.0
+ System load forecast,118,0,0.0,0.0
+ System load forecast,119,1,0.003215434083601286,0.3215434083601286
+ System load forecast,120,0,0.0,0.0
+ System load forecast,121,0,0.0,0.0
+ System load forecast,122,0,0.0,0.0
+ System load forecast,123,0,0.0,0.0
+ System load forecast,124,0,0.0,0.0
+ System load forecast,125,0,0.0,0.0
+ System load forecast,126,3,0.00964630225080386,0.9646302250803859
+ System load forecast,127,0,0.0,0.0
+ System load forecast,128,0,0.0,0.0
+ System load forecast,129,0,0.0,0.0
+ System load forecast,130,0,0.0,0.0
+ System load forecast,131,0,0.0,0.0
+ System load forecast,132,4,0.012861736334405145,1.2861736334405145
+ System load forecast,133,0,0.0,0.0
+ System load forecast,134,0,0.0,0.0
+ System load forecast,135,0,0.0,0.0
+ System load forecast,136,0,0.0,0.0
+ System load forecast,137,0,0.0,0.0
+ System load forecast,138,0,0.0,0.0
+ System load forecast,139,0,0.0,0.0
+ System load forecast,140,0,0.0,0.0
+ System load forecast,141,0,0.0,0.0
+ System load forecast,142,0,0.0,0.0
+ System load forecast,143,5,0.01607717041800643,1.607717041800643
+ System load forecast,144,147,0.47266881028938906,47.266881028938904
+ System load forecast,145,1,0.003215434083601286,0.3215434083601286
+ System load forecast,146,0,0.0,0.0
+ System load forecast,147,0,0.0,0.0
+ System load forecast,148,0,0.0,0.0
+ System load forecast,149,0,0.0,0.0
+ System load forecast,150,0,0.0,0.0
+ System load forecast,151,0,0.0,0.0
+ System load forecast,152,0,0.0,0.0
+ System load forecast,153,0,0.0,0.0
+ System load forecast,154,0,0.0,0.0
+ System load forecast,155,0,0.0,0.0
+ System load forecast,156,5,0.01607717041800643,1.607717041800643
+ System load forecast,157,0,0.0,0.0
+ System load forecast,158,0,0.0,0.0
+ System load forecast,159,0,0.0,0.0
+ System load forecast,160,0,0.0,0.0
+ System load forecast,161,0,0.0,0.0
+ System load forecast,162,0,0.0,0.0
+ System load forecast,163,0,0.0,0.0
+ System load forecast,164,0,0.0,0.0
+ System load forecast,165,0,0.0,0.0
+ System load forecast,166,0,0.0,0.0
+ Zonal COMED load foecast,1,0,0.0,0.0
+ Zonal COMED load foecast,2,0,0.0,0.0
+ Zonal COMED load foecast,3,0,0.0,0.0
+ Zonal COMED load foecast,4,0,0.0,0.0
+ Zonal COMED load foecast,5,0,0.0,0.0
+ Zonal COMED load foecast,6,0,0.0,0.0
+ Zonal COMED load foecast,7,0,0.0,0.0
+ Zonal COMED load foecast,8,0,0.0,0.0
+ Zonal COMED load foecast,9,0,0.0,0.0
+ Zonal COMED load foecast,10,0,0.0,0.0
+ Zonal COMED load foecast,11,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,12,0,0.0,0.0
+ Zonal COMED load foecast,13,0,0.0,0.0
+ Zonal COMED load foecast,14,0,0.0,0.0
+ Zonal COMED load foecast,15,0,0.0,0.0
+ Zonal COMED load foecast,16,0,0.0,0.0
+ Zonal COMED load foecast,17,0,0.0,0.0
+ Zonal COMED load foecast,18,0,0.0,0.0
+ Zonal COMED load foecast,19,0,0.0,0.0
+ Zonal COMED load foecast,20,0,0.0,0.0
+ Zonal COMED load foecast,21,0,0.0,0.0
+ Zonal COMED load foecast,22,0,0.0,0.0
+ Zonal COMED load foecast,23,92,0.2958199356913183,29.581993569131832
+ Zonal COMED load foecast,24,6,0.01929260450160772,1.9292604501607717
+ Zonal COMED load foecast,25,0,0.0,0.0
+ Zonal COMED load foecast,26,0,0.0,0.0
+ Zonal COMED load foecast,27,0,0.0,0.0
+ Zonal COMED load foecast,28,0,0.0,0.0
+ Zonal COMED load foecast,29,0,0.0,0.0
+ Zonal COMED load foecast,30,0,0.0,0.0
+ Zonal COMED load foecast,31,0,0.0,0.0
+ Zonal COMED load foecast,32,0,0.0,0.0
+ Zonal COMED load foecast,33,0,0.0,0.0
+ Zonal COMED load foecast,34,0,0.0,0.0
+ Zonal COMED load foecast,35,2,0.006430868167202572,0.6430868167202572
+ Zonal COMED load foecast,36,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,37,0,0.0,0.0
+ Zonal COMED load foecast,38,0,0.0,0.0
+ Zonal COMED load foecast,39,0,0.0,0.0
+ Zonal COMED load foecast,40,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,41,0,0.0,0.0
+ Zonal COMED load foecast,42,0,0.0,0.0
+ Zonal COMED load foecast,43,0,0.0,0.0
+ Zonal COMED load foecast,44,0,0.0,0.0
+ Zonal COMED load foecast,45,0,0.0,0.0
+ Zonal COMED load foecast,46,0,0.0,0.0
+ Zonal COMED load foecast,47,7,0.022508038585209004,2.2508038585209005
+ Zonal COMED load foecast,48,0,0.0,0.0
+ Zonal COMED load foecast,49,0,0.0,0.0
+ Zonal COMED load foecast,50,0,0.0,0.0
+ Zonal COMED load foecast,51,0,0.0,0.0
+ Zonal COMED load foecast,52,0,0.0,0.0
+ Zonal COMED load foecast,53,5,0.01607717041800643,1.607717041800643
+ Zonal COMED load foecast,54,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,55,0,0.0,0.0
+ Zonal COMED load foecast,56,0,0.0,0.0
+ Zonal COMED load foecast,57,0,0.0,0.0
+ Zonal COMED load foecast,58,0,0.0,0.0
+ Zonal COMED load foecast,59,3,0.00964630225080386,0.9646302250803859
+ Zonal COMED load foecast,60,3,0.00964630225080386,0.9646302250803859
+ Zonal COMED load foecast,61,0,0.0,0.0
+ Zonal COMED load foecast,62,0,0.0,0.0
+ Zonal COMED load foecast,63,0,0.0,0.0
+ Zonal COMED load foecast,64,0,0.0,0.0
+ Zonal COMED load foecast,65,0,0.0,0.0
+ Zonal COMED load foecast,66,0,0.0,0.0
+ Zonal COMED load foecast,67,0,0.0,0.0
+ Zonal COMED load foecast,68,0,0.0,0.0
+ Zonal COMED load foecast,69,0,0.0,0.0
+ Zonal COMED load foecast,70,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,71,19,0.06109324758842444,6.109324758842444
+ Zonal COMED load foecast,72,0,0.0,0.0
+ Zonal COMED load foecast,73,0,0.0,0.0
+ Zonal COMED load foecast,74,0,0.0,0.0
+ Zonal COMED load foecast,75,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,76,0,0.0,0.0
+ Zonal COMED load foecast,77,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,78,2,0.006430868167202572,0.6430868167202572
+ Zonal COMED load foecast,79,0,0.0,0.0
+ Zonal COMED load foecast,80,0,0.0,0.0
+ Zonal COMED load foecast,81,0,0.0,0.0
+ Zonal COMED load foecast,82,0,0.0,0.0
+ Zonal COMED load foecast,83,13,0.04180064308681672,4.180064308681672
+ Zonal COMED load foecast,84,7,0.022508038585209004,2.2508038585209005
+ Zonal COMED load foecast,85,0,0.0,0.0
+ Zonal COMED load foecast,86,0,0.0,0.0
+ Zonal COMED load foecast,87,0,0.0,0.0
+ Zonal COMED load foecast,88,0,0.0,0.0
+ Zonal COMED load foecast,89,0,0.0,0.0
+ Zonal COMED load foecast,90,0,0.0,0.0
+ Zonal COMED load foecast,91,0,0.0,0.0
+ Zonal COMED load foecast,92,0,0.0,0.0
+ Zonal COMED load foecast,93,0,0.0,0.0
+ Zonal COMED load foecast,94,0,0.0,0.0
+ Zonal COMED load foecast,95,8,0.02572347266881029,2.572347266881029
+ Zonal COMED load foecast,96,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,97,0,0.0,0.0
+ Zonal COMED load foecast,98,0,0.0,0.0
+ Zonal COMED load foecast,99,0,0.0,0.0
+ Zonal COMED load foecast,100,0,0.0,0.0
+ Zonal COMED load foecast,101,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,102,3,0.00964630225080386,0.9646302250803859
+ Zonal COMED load foecast,103,0,0.0,0.0
+ Zonal COMED load foecast,104,0,0.0,0.0
+ Zonal COMED load foecast,105,0,0.0,0.0
+ Zonal COMED load foecast,106,0,0.0,0.0
+ Zonal COMED load foecast,107,7,0.022508038585209004,2.2508038585209005
+ Zonal COMED load foecast,108,5,0.01607717041800643,1.607717041800643
+ Zonal COMED load foecast,109,0,0.0,0.0
+ Zonal COMED load foecast,110,0,0.0,0.0
+ Zonal COMED load foecast,111,0,0.0,0.0
+ Zonal COMED load foecast,112,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,113,0,0.0,0.0
+ Zonal COMED load foecast,114,0,0.0,0.0
+ Zonal COMED load foecast,115,0,0.0,0.0
+ Zonal COMED load foecast,116,0,0.0,0.0
+ Zonal COMED load foecast,117,0,0.0,0.0
+ Zonal COMED load foecast,118,0,0.0,0.0
+ Zonal COMED load foecast,119,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,120,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,121,0,0.0,0.0
+ Zonal COMED load foecast,122,0,0.0,0.0
+ Zonal COMED load foecast,123,0,0.0,0.0
+ Zonal COMED load foecast,124,0,0.0,0.0
+ Zonal COMED load foecast,125,0,0.0,0.0
+ Zonal COMED load foecast,126,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,127,0,0.0,0.0
+ Zonal COMED load foecast,128,0,0.0,0.0
+ Zonal COMED load foecast,129,0,0.0,0.0
+ Zonal COMED load foecast,130,0,0.0,0.0
+ Zonal COMED load foecast,131,5,0.01607717041800643,1.607717041800643
+ Zonal COMED load foecast,132,1,0.003215434083601286,0.3215434083601286
+ Zonal COMED load foecast,133,0,0.0,0.0
+ Zonal COMED load foecast,134,0,0.0,0.0
+ Zonal COMED load foecast,135,0,0.0,0.0
+ Zonal COMED load foecast,136,0,0.0,0.0
+ Zonal COMED load foecast,137,0,0.0,0.0
+ Zonal COMED load foecast,138,0,0.0,0.0
+ Zonal COMED load foecast,139,0,0.0,0.0
+ Zonal COMED load foecast,140,0,0.0,0.0
+ Zonal COMED load foecast,141,0,0.0,0.0
+ Zonal COMED load foecast,142,0,0.0,0.0
+ Zonal COMED load foecast,143,93,0.2990353697749196,29.90353697749196
+ Zonal COMED load foecast,144,16,0.05144694533762058,5.144694533762058
+ Zonal COMED load foecast,145,0,0.0,0.0
+ Zonal COMED load foecast,146,0,0.0,0.0
+ Zonal COMED load foecast,147,0,0.0,0.0
+ Zonal COMED load foecast,148,0,0.0,0.0
+ Zonal COMED load foecast,149,0,0.0,0.0
+ Zonal COMED load foecast,150,0,0.0,0.0
+ Zonal COMED load foecast,151,0,0.0,0.0
+ Zonal COMED load foecast,152,0,0.0,0.0
+ Zonal COMED load foecast,153,0,0.0,0.0
+ Zonal COMED load foecast,154,0,0.0,0.0
+ Zonal COMED load foecast,155,0,0.0,0.0
+ Zonal COMED load foecast,156,0,0.0,0.0
+ Zonal COMED load foecast,157,0,0.0,0.0
+ Zonal COMED load foecast,158,0,0.0,0.0
+ Zonal COMED load foecast,159,0,0.0,0.0
+ Zonal COMED load foecast,160,0,0.0,0.0
+ Zonal COMED load foecast,161,0,0.0,0.0
+ Zonal COMED load foecast,162,0,0.0,0.0
+ Zonal COMED load foecast,163,0,0.0,0.0
+ Zonal COMED load foecast,164,0,0.0,0.0
+ Zonal COMED load foecast,165,0,0.0,0.0
+ Zonal COMED load foecast,166,1,0.003215434083601286,0.3215434083601286

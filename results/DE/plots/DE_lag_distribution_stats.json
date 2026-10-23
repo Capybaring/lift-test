@@ -1,0 +1,50 @@
+{
+  "dataset": "DE",
+  "history_hours": 168,
+  "forecast_hours": 24,
+  "stride_hours": 168,
+  "bin_width_hours": 1,
+  "estimator": "circular FFT with official local-peak selection",
+  "pairs": [
+    {
+      "exogenous": " Wind power forecast",
+      "windows": 311,
+      "mean_lag_hours": 72.62700964630226,
+      "median_lag_hours": 70.0,
+      "top_lags": [
+        {
+          "lag_hours": 1,
+          "percent": 5.466237942122186
+        },
+        {
+          "lag_hours": 3,
+          "percent": 3.215434083601286
+        },
+        {
+          "lag_hours": 4,
+          "percent": 2.8938906752411575
+        }
+      ]
+    },
+    {
+      "exogenous": " Ampirion zonal load forecast",
+      "windows": 311,
+      "mean_lag_hours": 81.55627009646302,
+      "median_lag_hours": 88.0,
+      "top_lags": [
+        {
+          "lag_hours": 24,
+          "percent": 27.331189710610932
+        },
+        {
+          "lag_hours": 144,
+          "percent": 26.04501607717042
+        },
+        {
+          "lag_hours": 113,
+          "percent": 4.501607717041801
+        }
+      ]
+    }
+  ]
+}

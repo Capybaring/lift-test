@@ -1,0 +1,46 @@
+{
+  "status": "complete",
+  "dataset": "FR",
+  "history_length": 168,
+  "forecast_horizon": 24,
+  "stride": 168,
+  "lag_candidates": [
+    1,
+    166
+  ],
+  "endogenous": "OT",
+  "exogenous": [
+    " Generation forecast",
+    " System load forecast"
+  ],
+  "retained_exogenous_K": 2,
+  "direction": "exogenous[t-d] corresponds to OT[t]; positive d means exogenous leads",
+  "estimator": "official LIFT circular FFT, local peak mask, same instance_norm and reduction",
+  "scope": "Lead Estimator only; no backbone/refiner training or 24-step value prediction",
+  "scaling": "official instance_norm on raw dataset history; no global StandardScaler or train/test split",
+  "numeric_dtype": "torch.float32",
+  "normalization_epsilon": 1e-08,
+  "source": {
+    "path": "/Users/macbook/Downloads/dataset/forecasting/FR.csv",
+    "sha256": "81a276cb4801bec598810ad712c834e399927cd183dda0edf5b0d7ae5c1634ee",
+    "time_points": 52416,
+    "interval_seconds": 3600,
+    "start": "2011-01-09T00:00:00.000000000",
+    "end": "2016-12-31T23:00:00.000000000"
+  },
+  "upstream_commit": "79cf8f157bb9a616c9733daf1e9c2cfefdc98c94",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "torch": "2.14.1",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "windows": 311,
+  "rows": 622,
+  "plot_units": "hours",
+  "plot_files": [
+    "/Users/macbook/.codex/.chatgpt-projects/g-p-6aa3cf1c4f848191bd0e22dbb72a0b1a/deliverables/lift_four_circular_weekly/results/FR/plots/FR_lag_distribution_hours.png",
+    "/Users/macbook/.codex/.chatgpt-projects/g-p-6aa3cf1c4f848191bd0e22dbb72a0b1a/deliverables/lift_four_circular_weekly/results/FR/plots/FR_lag_distribution_hours.svg"
+  ],
+  "first_forecast_start": "2011-01-16T00:00:00.000000000",
+  "last_forecast_end": "2016-12-25T23:00:00.000000000",
+  "elapsed_seconds": 0.526
+}

@@ -1,0 +1,50 @@
+{
+  "dataset": "FR",
+  "history_hours": 168,
+  "forecast_hours": 24,
+  "stride_hours": 168,
+  "bin_width_hours": 1,
+  "estimator": "circular FFT with official local-peak selection",
+  "pairs": [
+    {
+      "exogenous": " Generation forecast",
+      "windows": 311,
+      "mean_lag_hours": 86.49196141479099,
+      "median_lag_hours": 89.0,
+      "top_lags": [
+        {
+          "lag_hours": 144,
+          "percent": 41.80064308681672
+        },
+        {
+          "lag_hours": 24,
+          "percent": 20.90032154340836
+        },
+        {
+          "lag_hours": 23,
+          "percent": 17.363344051446944
+        }
+      ]
+    },
+    {
+      "exogenous": " System load forecast",
+      "windows": 311,
+      "mean_lag_hours": 84.28617363344051,
+      "median_lag_hours": 88.0,
+      "top_lags": [
+        {
+          "lag_hours": 143,
+          "percent": 41.80064308681672
+        },
+        {
+          "lag_hours": 23,
+          "percent": 39.549839228295816
+        },
+        {
+          "lag_hours": 88,
+          "percent": 3.536977491961415
+        }
+      ]
+    }
+  ]
+}

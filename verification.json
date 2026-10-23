@@ -1,0 +1,34 @@
+[
+  {
+    "dataset": "NP",
+    "windows": 311,
+    "rows": 622,
+    "official_pairwise_parity": true,
+    "window_indices_valid": true,
+    "distribution_totals_valid": true
+  },
+  {
+    "dataset": "DE",
+    "windows": 311,
+    "rows": 622,
+    "official_pairwise_parity": true,
+    "window_indices_valid": true,
+    "distribution_totals_valid": true
+  },
+  {
+    "dataset": "PJM",
+    "windows": 311,
+    "rows": 622,
+    "official_pairwise_parity": true,
+    "window_indices_valid": true,
+    "distribution_totals_valid": true
+  },
+  {
+    "dataset": "FR",
+    "windows": 311,
+    "rows": 622,
+    "official_pairwise_parity": true,
+    "window_indices_valid": true,
+    "distribution_totals_valid": true
+  }
+]

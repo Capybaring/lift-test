@@ -1,0 +1,46 @@
+{
+  "status": "complete",
+  "dataset": "NP",
+  "history_length": 168,
+  "forecast_horizon": 24,
+  "stride": 168,
+  "lag_candidates": [
+    1,
+    166
+  ],
+  "endogenous": "OT",
+  "exogenous": [
+    " Grid load forecast",
+    " Wind power forecast"
+  ],
+  "retained_exogenous_K": 2,
+  "direction": "exogenous[t-d] corresponds to OT[t]; positive d means exogenous leads",
+  "estimator": "official LIFT circular FFT, local peak mask, same instance_norm and reduction",
+  "scope": "Lead Estimator only; no backbone/refiner training or 24-step value prediction",
+  "scaling": "official instance_norm on raw dataset history; no global StandardScaler or train/test split",
+  "numeric_dtype": "torch.float32",
+  "normalization_epsilon": 1e-08,
+  "source": {
+    "path": "/home/ybhuo/hq/DAG/dataset/forecasting/NP.csv",
+    "sha256": "29e142d895fa3254bf138e3bec32051e081794a7393a642db36a5d21859d36e1",
+    "time_points": 52416,
+    "interval_seconds": 3600,
+    "start": "2013-01-01T00:00:00.000000000",
+    "end": "2018-12-24T23:00:00.000000000"
+  },
+  "upstream_commit": "79cf8f157bb9a616c9733daf1e9c2cfefdc98c94",
+  "python": "3.11.15 (main, Jun 11 2026, 15:20:16) [GCC 14.3.0]",
+  "torch": "2.13.0+cu130",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "windows": 311,
+  "rows": 622,
+  "plot_units": "hours",
+  "plot_files": [
+    "/home/ybhuo/hq/exo-base/lift_four_circular_weekly/np_results/NP/plots/NP_lag_distribution_hours.png",
+    "/home/ybhuo/hq/exo-base/lift_four_circular_weekly/np_results/NP/plots/NP_lag_distribution_hours.svg"
+  ],
+  "first_forecast_start": "2013-01-08T00:00:00.000000000",
+  "last_forecast_end": "2018-12-18T23:00:00.000000000",
+  "elapsed_seconds": 1.127
+}

@@ -1,0 +1,50 @@
+{
+  "dataset": "NP",
+  "history_hours": 168,
+  "forecast_hours": 24,
+  "stride_hours": 168,
+  "bin_width_hours": 1,
+  "estimator": "circular FFT with official local-peak selection",
+  "pairs": [
+    {
+      "exogenous": " Grid load forecast",
+      "windows": 311,
+      "mean_lag_hours": 83.47909967845659,
+      "median_lag_hours": 72.0,
+      "top_lags": [
+        {
+          "lag_hours": 144,
+          "percent": 38.58520900321543
+        },
+        {
+          "lag_hours": 24,
+          "percent": 36.334405144694536
+        },
+        {
+          "lag_hours": 72,
+          "percent": 9.646302250803858
+        }
+      ]
+    },
+    {
+      "exogenous": " Wind power forecast",
+      "windows": 311,
+      "mean_lag_hours": 80.83601286173634,
+      "median_lag_hours": 80.0,
+      "top_lags": [
+        {
+          "lag_hours": 68,
+          "percent": 2.8938906752411575
+        },
+        {
+          "lag_hours": 5,
+          "percent": 2.572347266881029
+        },
+        {
+          "lag_hours": 6,
+          "percent": 2.572347266881029
+        }
+      ]
+    }
+  ]
+}

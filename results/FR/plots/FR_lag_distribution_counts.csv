@@ -1,0 +1,333 @@
+exogenous,lag_hours,windows,fraction,percent
+ Generation forecast,1,0,0.0,0.0
+ Generation forecast,2,0,0.0,0.0
+ Generation forecast,3,0,0.0,0.0
+ Generation forecast,4,0,0.0,0.0
+ Generation forecast,5,0,0.0,0.0
+ Generation forecast,6,0,0.0,0.0
+ Generation forecast,7,0,0.0,0.0
+ Generation forecast,8,0,0.0,0.0
+ Generation forecast,9,0,0.0,0.0
+ Generation forecast,10,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,11,3,0.00964630225080386,0.9646302250803859
+ Generation forecast,12,0,0.0,0.0
+ Generation forecast,13,0,0.0,0.0
+ Generation forecast,14,0,0.0,0.0
+ Generation forecast,15,0,0.0,0.0
+ Generation forecast,16,0,0.0,0.0
+ Generation forecast,17,0,0.0,0.0
+ Generation forecast,18,0,0.0,0.0
+ Generation forecast,19,0,0.0,0.0
+ Generation forecast,20,0,0.0,0.0
+ Generation forecast,21,0,0.0,0.0
+ Generation forecast,22,0,0.0,0.0
+ Generation forecast,23,54,0.17363344051446947,17.363344051446944
+ Generation forecast,24,65,0.2090032154340836,20.90032154340836
+ Generation forecast,25,0,0.0,0.0
+ Generation forecast,26,0,0.0,0.0
+ Generation forecast,27,0,0.0,0.0
+ Generation forecast,28,0,0.0,0.0
+ Generation forecast,29,0,0.0,0.0
+ Generation forecast,30,0,0.0,0.0
+ Generation forecast,31,0,0.0,0.0
+ Generation forecast,32,0,0.0,0.0
+ Generation forecast,33,0,0.0,0.0
+ Generation forecast,34,0,0.0,0.0
+ Generation forecast,35,0,0.0,0.0
+ Generation forecast,36,0,0.0,0.0
+ Generation forecast,37,0,0.0,0.0
+ Generation forecast,38,0,0.0,0.0
+ Generation forecast,39,0,0.0,0.0
+ Generation forecast,40,2,0.006430868167202572,0.6430868167202572
+ Generation forecast,41,5,0.01607717041800643,1.607717041800643
+ Generation forecast,42,0,0.0,0.0
+ Generation forecast,43,0,0.0,0.0
+ Generation forecast,44,0,0.0,0.0
+ Generation forecast,45,0,0.0,0.0
+ Generation forecast,46,0,0.0,0.0
+ Generation forecast,47,0,0.0,0.0
+ Generation forecast,48,0,0.0,0.0
+ Generation forecast,49,0,0.0,0.0
+ Generation forecast,50,0,0.0,0.0
+ Generation forecast,51,0,0.0,0.0
+ Generation forecast,52,0,0.0,0.0
+ Generation forecast,53,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,54,2,0.006430868167202572,0.6430868167202572
+ Generation forecast,55,0,0.0,0.0
+ Generation forecast,56,0,0.0,0.0
+ Generation forecast,57,0,0.0,0.0
+ Generation forecast,58,0,0.0,0.0
+ Generation forecast,59,0,0.0,0.0
+ Generation forecast,60,0,0.0,0.0
+ Generation forecast,61,0,0.0,0.0
+ Generation forecast,62,0,0.0,0.0
+ Generation forecast,63,0,0.0,0.0
+ Generation forecast,64,0,0.0,0.0
+ Generation forecast,65,4,0.012861736334405145,1.2861736334405145
+ Generation forecast,66,0,0.0,0.0
+ Generation forecast,67,0,0.0,0.0
+ Generation forecast,68,0,0.0,0.0
+ Generation forecast,69,0,0.0,0.0
+ Generation forecast,70,0,0.0,0.0
+ Generation forecast,71,0,0.0,0.0
+ Generation forecast,72,5,0.01607717041800643,1.607717041800643
+ Generation forecast,73,0,0.0,0.0
+ Generation forecast,74,0,0.0,0.0
+ Generation forecast,75,0,0.0,0.0
+ Generation forecast,76,0,0.0,0.0
+ Generation forecast,77,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,78,5,0.01607717041800643,1.607717041800643
+ Generation forecast,79,0,0.0,0.0
+ Generation forecast,80,0,0.0,0.0
+ Generation forecast,81,0,0.0,0.0
+ Generation forecast,82,0,0.0,0.0
+ Generation forecast,83,0,0.0,0.0
+ Generation forecast,84,0,0.0,0.0
+ Generation forecast,85,0,0.0,0.0
+ Generation forecast,86,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,87,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,88,5,0.01607717041800643,1.607717041800643
+ Generation forecast,89,2,0.006430868167202572,0.6430868167202572
+ Generation forecast,90,3,0.00964630225080386,0.9646302250803859
+ Generation forecast,91,0,0.0,0.0
+ Generation forecast,92,0,0.0,0.0
+ Generation forecast,93,0,0.0,0.0
+ Generation forecast,94,0,0.0,0.0
+ Generation forecast,95,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,96,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,97,0,0.0,0.0
+ Generation forecast,98,0,0.0,0.0
+ Generation forecast,99,0,0.0,0.0
+ Generation forecast,100,0,0.0,0.0
+ Generation forecast,101,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,102,0,0.0,0.0
+ Generation forecast,103,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,104,0,0.0,0.0
+ Generation forecast,105,0,0.0,0.0
+ Generation forecast,106,0,0.0,0.0
+ Generation forecast,107,0,0.0,0.0
+ Generation forecast,108,0,0.0,0.0
+ Generation forecast,109,0,0.0,0.0
+ Generation forecast,110,0,0.0,0.0
+ Generation forecast,111,0,0.0,0.0
+ Generation forecast,112,2,0.006430868167202572,0.6430868167202572
+ Generation forecast,113,0,0.0,0.0
+ Generation forecast,114,0,0.0,0.0
+ Generation forecast,115,0,0.0,0.0
+ Generation forecast,116,0,0.0,0.0
+ Generation forecast,117,0,0.0,0.0
+ Generation forecast,118,0,0.0,0.0
+ Generation forecast,119,0,0.0,0.0
+ Generation forecast,120,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,121,0,0.0,0.0
+ Generation forecast,122,0,0.0,0.0
+ Generation forecast,123,0,0.0,0.0
+ Generation forecast,124,0,0.0,0.0
+ Generation forecast,125,2,0.006430868167202572,0.6430868167202572
+ Generation forecast,126,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,127,0,0.0,0.0
+ Generation forecast,128,0,0.0,0.0
+ Generation forecast,129,0,0.0,0.0
+ Generation forecast,130,0,0.0,0.0
+ Generation forecast,131,0,0.0,0.0
+ Generation forecast,132,0,0.0,0.0
+ Generation forecast,133,0,0.0,0.0
+ Generation forecast,134,0,0.0,0.0
+ Generation forecast,135,0,0.0,0.0
+ Generation forecast,136,0,0.0,0.0
+ Generation forecast,137,0,0.0,0.0
+ Generation forecast,138,0,0.0,0.0
+ Generation forecast,139,0,0.0,0.0
+ Generation forecast,140,0,0.0,0.0
+ Generation forecast,141,0,0.0,0.0
+ Generation forecast,142,0,0.0,0.0
+ Generation forecast,143,7,0.022508038585209004,2.2508038585209005
+ Generation forecast,144,130,0.4180064308681672,41.80064308681672
+ Generation forecast,145,0,0.0,0.0
+ Generation forecast,146,0,0.0,0.0
+ Generation forecast,147,0,0.0,0.0
+ Generation forecast,148,0,0.0,0.0
+ Generation forecast,149,0,0.0,0.0
+ Generation forecast,150,0,0.0,0.0
+ Generation forecast,151,0,0.0,0.0
+ Generation forecast,152,0,0.0,0.0
+ Generation forecast,153,0,0.0,0.0
+ Generation forecast,154,0,0.0,0.0
+ Generation forecast,155,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,156,2,0.006430868167202572,0.6430868167202572
+ Generation forecast,157,1,0.003215434083601286,0.3215434083601286
+ Generation forecast,158,0,0.0,0.0
+ Generation forecast,159,0,0.0,0.0
+ Generation forecast,160,0,0.0,0.0
+ Generation forecast,161,0,0.0,0.0
+ Generation forecast,162,0,0.0,0.0
+ Generation forecast,163,0,0.0,0.0
+ Generation forecast,164,0,0.0,0.0
+ Generation forecast,165,0,0.0,0.0
+ Generation forecast,166,0,0.0,0.0
+ System load forecast,1,0,0.0,0.0
+ System load forecast,2,0,0.0,0.0
+ System load forecast,3,0,0.0,0.0
+ System load forecast,4,0,0.0,0.0
+ System load forecast,5,0,0.0,0.0
+ System load forecast,6,0,0.0,0.0
+ System load forecast,7,0,0.0,0.0
+ System load forecast,8,0,0.0,0.0
+ System load forecast,9,0,0.0,0.0
+ System load forecast,10,1,0.003215434083601286,0.3215434083601286
+ System load forecast,11,2,0.006430868167202572,0.6430868167202572
+ System load forecast,12,0,0.0,0.0
+ System load forecast,13,0,0.0,0.0
+ System load forecast,14,0,0.0,0.0
+ System load forecast,15,0,0.0,0.0
+ System load forecast,16,0,0.0,0.0
+ System load forecast,17,0,0.0,0.0
+ System load forecast,18,0,0.0,0.0
+ System load forecast,19,0,0.0,0.0
+ System load forecast,20,0,0.0,0.0
+ System load forecast,21,0,0.0,0.0
+ System load forecast,22,5,0.01607717041800643,1.607717041800643
+ System load forecast,23,123,0.3954983922829582,39.549839228295816
+ System load forecast,24,0,0.0,0.0
+ System load forecast,25,0,0.0,0.0
+ System load forecast,26,0,0.0,0.0
+ System load forecast,27,0,0.0,0.0
+ System load forecast,28,0,0.0,0.0
+ System load forecast,29,0,0.0,0.0
+ System load forecast,30,0,0.0,0.0
+ System load forecast,31,0,0.0,0.0
+ System load forecast,32,0,0.0,0.0
+ System load forecast,33,0,0.0,0.0
+ System load forecast,34,0,0.0,0.0
+ System load forecast,35,0,0.0,0.0
+ System load forecast,36,0,0.0,0.0
+ System load forecast,37,0,0.0,0.0
+ System load forecast,38,0,0.0,0.0
+ System load forecast,39,1,0.003215434083601286,0.3215434083601286
+ System load forecast,40,3,0.00964630225080386,0.9646302250803859
+ System load forecast,41,0,0.0,0.0
+ System load forecast,42,0,0.0,0.0
+ System load forecast,43,0,0.0,0.0
+ System load forecast,44,0,0.0,0.0
+ System load forecast,45,0,0.0,0.0
+ System load forecast,46,0,0.0,0.0
+ System load forecast,47,2,0.006430868167202572,0.6430868167202572
+ System load forecast,48,0,0.0,0.0
+ System load forecast,49,0,0.0,0.0
+ System load forecast,50,0,0.0,0.0
+ System load forecast,51,0,0.0,0.0
+ System load forecast,52,0,0.0,0.0
+ System load forecast,53,0,0.0,0.0
+ System load forecast,54,0,0.0,0.0
+ System load forecast,55,0,0.0,0.0
+ System load forecast,56,0,0.0,0.0
+ System load forecast,57,0,0.0,0.0
+ System load forecast,58,0,0.0,0.0
+ System load forecast,59,0,0.0,0.0
+ System load forecast,60,0,0.0,0.0
+ System load forecast,61,0,0.0,0.0
+ System load forecast,62,0,0.0,0.0
+ System load forecast,63,2,0.006430868167202572,0.6430868167202572
+ System load forecast,64,3,0.00964630225080386,0.9646302250803859
+ System load forecast,65,0,0.0,0.0
+ System load forecast,66,0,0.0,0.0
+ System load forecast,67,0,0.0,0.0
+ System load forecast,68,0,0.0,0.0
+ System load forecast,69,0,0.0,0.0
+ System load forecast,70,0,0.0,0.0
+ System load forecast,71,4,0.012861736334405145,1.2861736334405145
+ System load forecast,72,0,0.0,0.0
+ System load forecast,73,0,0.0,0.0
+ System load forecast,74,0,0.0,0.0
+ System load forecast,75,0,0.0,0.0
+ System load forecast,76,0,0.0,0.0
+ System load forecast,77,0,0.0,0.0
+ System load forecast,78,0,0.0,0.0
+ System load forecast,79,0,0.0,0.0
+ System load forecast,80,0,0.0,0.0
+ System load forecast,81,0,0.0,0.0
+ System load forecast,82,0,0.0,0.0
+ System load forecast,83,0,0.0,0.0
+ System load forecast,84,0,0.0,0.0
+ System load forecast,85,0,0.0,0.0
+ System load forecast,86,2,0.006430868167202572,0.6430868167202572
+ System load forecast,87,2,0.006430868167202572,0.6430868167202572
+ System load forecast,88,11,0.03536977491961415,3.536977491961415
+ System load forecast,89,1,0.003215434083601286,0.3215434083601286
+ System load forecast,90,0,0.0,0.0
+ System load forecast,91,0,0.0,0.0
+ System load forecast,92,0,0.0,0.0
+ System load forecast,93,0,0.0,0.0
+ System load forecast,94,1,0.003215434083601286,0.3215434083601286
+ System load forecast,95,1,0.003215434083601286,0.3215434083601286
+ System load forecast,96,0,0.0,0.0
+ System load forecast,97,0,0.0,0.0
+ System load forecast,98,0,0.0,0.0
+ System load forecast,99,0,0.0,0.0
+ System load forecast,100,1,0.003215434083601286,0.3215434083601286
+ System load forecast,101,0,0.0,0.0
+ System load forecast,102,0,0.0,0.0
+ System load forecast,103,0,0.0,0.0
+ System load forecast,104,0,0.0,0.0
+ System load forecast,105,0,0.0,0.0
+ System load forecast,106,0,0.0,0.0
+ System load forecast,107,0,0.0,0.0
+ System load forecast,108,0,0.0,0.0
+ System load forecast,109,0,0.0,0.0
+ System load forecast,110,0,0.0,0.0
+ System load forecast,111,1,0.003215434083601286,0.3215434083601286
+ System load forecast,112,5,0.01607717041800643,1.607717041800643
+ System load forecast,113,0,0.0,0.0
+ System load forecast,114,0,0.0,0.0
+ System load forecast,115,0,0.0,0.0
+ System load forecast,116,0,0.0,0.0
+ System load forecast,117,0,0.0,0.0
+ System load forecast,118,0,0.0,0.0
+ System load forecast,119,3,0.00964630225080386,0.9646302250803859
+ System load forecast,120,0,0.0,0.0
+ System load forecast,121,0,0.0,0.0
+ System load forecast,122,0,0.0,0.0
+ System load forecast,123,0,0.0,0.0
+ System load forecast,124,0,0.0,0.0
+ System load forecast,125,1,0.003215434083601286,0.3215434083601286
+ System load forecast,126,0,0.0,0.0
+ System load forecast,127,0,0.0,0.0
+ System load forecast,128,0,0.0,0.0
+ System load forecast,129,0,0.0,0.0
+ System load forecast,130,0,0.0,0.0
+ System load forecast,131,0,0.0,0.0
+ System load forecast,132,0,0.0,0.0
+ System load forecast,133,0,0.0,0.0
+ System load forecast,134,0,0.0,0.0
+ System load forecast,135,0,0.0,0.0
+ System load forecast,136,0,0.0,0.0
+ System load forecast,137,0,0.0,0.0
+ System load forecast,138,0,0.0,0.0
+ System load forecast,139,0,0.0,0.0
+ System load forecast,140,0,0.0,0.0
+ System load forecast,141,0,0.0,0.0
+ System load forecast,142,0,0.0,0.0
+ System load forecast,143,130,0.4180064308681672,41.80064308681672
+ System load forecast,144,1,0.003215434083601286,0.3215434083601286
+ System load forecast,145,0,0.0,0.0
+ System load forecast,146,0,0.0,0.0
+ System load forecast,147,0,0.0,0.0
+ System load forecast,148,0,0.0,0.0
+ System load forecast,149,0,0.0,0.0
+ System load forecast,150,0,0.0,0.0
+ System load forecast,151,0,0.0,0.0
+ System load forecast,152,0,0.0,0.0
+ System load forecast,153,0,0.0,0.0
+ System load forecast,154,0,0.0,0.0
+ System load forecast,155,2,0.006430868167202572,0.6430868167202572
+ System load forecast,156,0,0.0,0.0
+ System load forecast,157,0,0.0,0.0
+ System load forecast,158,0,0.0,0.0
+ System load forecast,159,0,0.0,0.0
+ System load forecast,160,0,0.0,0.0
+ System load forecast,161,0,0.0,0.0
+ System load forecast,162,0,0.0,0.0
+ System load forecast,163,0,0.0,0.0
+ System load forecast,164,0,0.0,0.0
+ System load forecast,165,0,0.0,0.0
+ System load forecast,166,3,0.00964630225080386,0.9646302250803859

@@ -1,0 +1,333 @@
+exogenous,lag_hours,windows,fraction,percent
+ Wind power forecast,1,17,0.05466237942122187,5.466237942122186
+ Wind power forecast,2,8,0.02572347266881029,2.572347266881029
+ Wind power forecast,3,10,0.03215434083601286,3.215434083601286
+ Wind power forecast,4,9,0.028938906752411574,2.8938906752411575
+ Wind power forecast,5,7,0.022508038585209004,2.2508038585209005
+ Wind power forecast,6,7,0.022508038585209004,2.2508038585209005
+ Wind power forecast,7,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,8,0,0.0,0.0
+ Wind power forecast,9,0,0.0,0.0
+ Wind power forecast,10,0,0.0,0.0
+ Wind power forecast,11,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,12,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,13,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,14,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,15,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,16,0,0.0,0.0
+ Wind power forecast,17,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,18,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,19,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,20,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,21,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,22,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,23,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,24,0,0.0,0.0
+ Wind power forecast,25,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,26,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,27,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,28,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,29,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,30,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,31,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,32,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,33,0,0.0,0.0
+ Wind power forecast,34,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,35,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,36,0,0.0,0.0
+ Wind power forecast,37,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,38,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,39,0,0.0,0.0
+ Wind power forecast,40,0,0.0,0.0
+ Wind power forecast,41,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,42,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,43,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,44,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,45,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,46,0,0.0,0.0
+ Wind power forecast,47,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,48,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,49,0,0.0,0.0
+ Wind power forecast,50,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,51,0,0.0,0.0
+ Wind power forecast,52,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,53,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,54,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,55,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,56,0,0.0,0.0
+ Wind power forecast,57,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,58,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,59,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,60,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,61,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,62,0,0.0,0.0
+ Wind power forecast,63,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,64,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,65,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,66,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,67,5,0.01607717041800643,1.607717041800643
+ Wind power forecast,68,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,69,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,70,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,71,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,72,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,73,0,0.0,0.0
+ Wind power forecast,74,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,75,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,76,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,77,0,0.0,0.0
+ Wind power forecast,78,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,79,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,80,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,81,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,82,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,83,0,0.0,0.0
+ Wind power forecast,84,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,85,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,86,0,0.0,0.0
+ Wind power forecast,87,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,88,0,0.0,0.0
+ Wind power forecast,89,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,90,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,91,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,92,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,93,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,94,0,0.0,0.0
+ Wind power forecast,95,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,96,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,97,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,98,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,99,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,100,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,101,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,102,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,103,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,104,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,105,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,106,0,0.0,0.0
+ Wind power forecast,107,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,108,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,109,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,110,0,0.0,0.0
+ Wind power forecast,111,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,112,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,113,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,114,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,115,0,0.0,0.0
+ Wind power forecast,116,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,117,0,0.0,0.0
+ Wind power forecast,118,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,119,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,120,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,121,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,122,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,123,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,124,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,125,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,126,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,127,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,128,0,0.0,0.0
+ Wind power forecast,129,0,0.0,0.0
+ Wind power forecast,130,0,0.0,0.0
+ Wind power forecast,131,0,0.0,0.0
+ Wind power forecast,132,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,133,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,134,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,135,0,0.0,0.0
+ Wind power forecast,136,0,0.0,0.0
+ Wind power forecast,137,0,0.0,0.0
+ Wind power forecast,138,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,139,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,140,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,141,0,0.0,0.0
+ Wind power forecast,142,0,0.0,0.0
+ Wind power forecast,143,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,144,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,145,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,146,0,0.0,0.0
+ Wind power forecast,147,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,148,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,149,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,150,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,151,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,152,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,153,0,0.0,0.0
+ Wind power forecast,154,0,0.0,0.0
+ Wind power forecast,155,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,156,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,157,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,158,4,0.012861736334405145,1.2861736334405145
+ Wind power forecast,159,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,160,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,161,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,162,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,163,3,0.00964630225080386,0.9646302250803859
+ Wind power forecast,164,2,0.006430868167202572,0.6430868167202572
+ Wind power forecast,165,1,0.003215434083601286,0.3215434083601286
+ Wind power forecast,166,3,0.00964630225080386,0.9646302250803859
+ Ampirion zonal load forecast,1,4,0.012861736334405145,1.2861736334405145
+ Ampirion zonal load forecast,2,0,0.0,0.0
+ Ampirion zonal load forecast,3,0,0.0,0.0
+ Ampirion zonal load forecast,4,0,0.0,0.0
+ Ampirion zonal load forecast,5,0,0.0,0.0
+ Ampirion zonal load forecast,6,0,0.0,0.0
+ Ampirion zonal load forecast,7,0,0.0,0.0
+ Ampirion zonal load forecast,8,0,0.0,0.0
+ Ampirion zonal load forecast,9,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,10,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,11,4,0.012861736334405145,1.2861736334405145
+ Ampirion zonal load forecast,12,0,0.0,0.0
+ Ampirion zonal load forecast,13,0,0.0,0.0
+ Ampirion zonal load forecast,14,0,0.0,0.0
+ Ampirion zonal load forecast,15,0,0.0,0.0
+ Ampirion zonal load forecast,16,0,0.0,0.0
+ Ampirion zonal load forecast,17,0,0.0,0.0
+ Ampirion zonal load forecast,18,0,0.0,0.0
+ Ampirion zonal load forecast,19,0,0.0,0.0
+ Ampirion zonal load forecast,20,0,0.0,0.0
+ Ampirion zonal load forecast,21,0,0.0,0.0
+ Ampirion zonal load forecast,22,0,0.0,0.0
+ Ampirion zonal load forecast,23,6,0.01929260450160772,1.9292604501607717
+ Ampirion zonal load forecast,24,85,0.2733118971061093,27.331189710610932
+ Ampirion zonal load forecast,25,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,26,0,0.0,0.0
+ Ampirion zonal load forecast,27,0,0.0,0.0
+ Ampirion zonal load forecast,28,0,0.0,0.0
+ Ampirion zonal load forecast,29,0,0.0,0.0
+ Ampirion zonal load forecast,30,0,0.0,0.0
+ Ampirion zonal load forecast,31,0,0.0,0.0
+ Ampirion zonal load forecast,32,0,0.0,0.0
+ Ampirion zonal load forecast,33,0,0.0,0.0
+ Ampirion zonal load forecast,34,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,35,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,36,0,0.0,0.0
+ Ampirion zonal load forecast,37,0,0.0,0.0
+ Ampirion zonal load forecast,38,0,0.0,0.0
+ Ampirion zonal load forecast,39,0,0.0,0.0
+ Ampirion zonal load forecast,40,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,41,10,0.03215434083601286,3.215434083601286
+ Ampirion zonal load forecast,42,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,43,0,0.0,0.0
+ Ampirion zonal load forecast,44,0,0.0,0.0
+ Ampirion zonal load forecast,45,0,0.0,0.0
+ Ampirion zonal load forecast,46,0,0.0,0.0
+ Ampirion zonal load forecast,47,0,0.0,0.0
+ Ampirion zonal load forecast,48,4,0.012861736334405145,1.2861736334405145
+ Ampirion zonal load forecast,49,0,0.0,0.0
+ Ampirion zonal load forecast,50,0,0.0,0.0
+ Ampirion zonal load forecast,51,0,0.0,0.0
+ Ampirion zonal load forecast,52,0,0.0,0.0
+ Ampirion zonal load forecast,53,0,0.0,0.0
+ Ampirion zonal load forecast,54,0,0.0,0.0
+ Ampirion zonal load forecast,55,0,0.0,0.0
+ Ampirion zonal load forecast,56,0,0.0,0.0
+ Ampirion zonal load forecast,57,0,0.0,0.0
+ Ampirion zonal load forecast,58,0,0.0,0.0
+ Ampirion zonal load forecast,59,0,0.0,0.0
+ Ampirion zonal load forecast,60,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,61,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,62,0,0.0,0.0
+ Ampirion zonal load forecast,63,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,64,3,0.00964630225080386,0.9646302250803859
+ Ampirion zonal load forecast,65,9,0.028938906752411574,2.8938906752411575
+ Ampirion zonal load forecast,66,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,67,0,0.0,0.0
+ Ampirion zonal load forecast,68,0,0.0,0.0
+ Ampirion zonal load forecast,69,0,0.0,0.0
+ Ampirion zonal load forecast,70,0,0.0,0.0
+ Ampirion zonal load forecast,71,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,72,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,73,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,74,0,0.0,0.0
+ Ampirion zonal load forecast,75,0,0.0,0.0
+ Ampirion zonal load forecast,76,0,0.0,0.0
+ Ampirion zonal load forecast,77,0,0.0,0.0
+ Ampirion zonal load forecast,78,0,0.0,0.0
+ Ampirion zonal load forecast,79,0,0.0,0.0
+ Ampirion zonal load forecast,80,0,0.0,0.0
+ Ampirion zonal load forecast,81,0,0.0,0.0
+ Ampirion zonal load forecast,82,0,0.0,0.0
+ Ampirion zonal load forecast,83,0,0.0,0.0
+ Ampirion zonal load forecast,84,0,0.0,0.0
+ Ampirion zonal load forecast,85,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,86,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,87,0,0.0,0.0
+ Ampirion zonal load forecast,88,7,0.022508038585209004,2.2508038585209005
+ Ampirion zonal load forecast,89,9,0.028938906752411574,2.8938906752411575
+ Ampirion zonal load forecast,90,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,91,0,0.0,0.0
+ Ampirion zonal load forecast,92,0,0.0,0.0
+ Ampirion zonal load forecast,93,0,0.0,0.0
+ Ampirion zonal load forecast,94,0,0.0,0.0
+ Ampirion zonal load forecast,95,5,0.01607717041800643,1.607717041800643
+ Ampirion zonal load forecast,96,10,0.03215434083601286,3.215434083601286
+ Ampirion zonal load forecast,97,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,98,0,0.0,0.0
+ Ampirion zonal load forecast,99,0,0.0,0.0
+ Ampirion zonal load forecast,100,0,0.0,0.0
+ Ampirion zonal load forecast,101,0,0.0,0.0
+ Ampirion zonal load forecast,102,0,0.0,0.0
+ Ampirion zonal load forecast,103,0,0.0,0.0
+ Ampirion zonal load forecast,104,0,0.0,0.0
+ Ampirion zonal load forecast,105,0,0.0,0.0
+ Ampirion zonal load forecast,106,0,0.0,0.0
+ Ampirion zonal load forecast,107,0,0.0,0.0
+ Ampirion zonal load forecast,108,0,0.0,0.0
+ Ampirion zonal load forecast,109,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,110,0,0.0,0.0
+ Ampirion zonal load forecast,111,3,0.00964630225080386,0.9646302250803859
+ Ampirion zonal load forecast,112,6,0.01929260450160772,1.9292604501607717
+ Ampirion zonal load forecast,113,14,0.04501607717041801,4.501607717041801
+ Ampirion zonal load forecast,114,4,0.012861736334405145,1.2861736334405145
+ Ampirion zonal load forecast,115,0,0.0,0.0
+ Ampirion zonal load forecast,116,0,0.0,0.0
+ Ampirion zonal load forecast,117,0,0.0,0.0
+ Ampirion zonal load forecast,118,0,0.0,0.0
+ Ampirion zonal load forecast,119,0,0.0,0.0
+ Ampirion zonal load forecast,120,3,0.00964630225080386,0.9646302250803859
+ Ampirion zonal load forecast,121,0,0.0,0.0
+ Ampirion zonal load forecast,122,0,0.0,0.0
+ Ampirion zonal load forecast,123,0,0.0,0.0
+ Ampirion zonal load forecast,124,0,0.0,0.0
+ Ampirion zonal load forecast,125,0,0.0,0.0
+ Ampirion zonal load forecast,126,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,127,0,0.0,0.0
+ Ampirion zonal load forecast,128,0,0.0,0.0
+ Ampirion zonal load forecast,129,0,0.0,0.0
+ Ampirion zonal load forecast,130,0,0.0,0.0
+ Ampirion zonal load forecast,131,0,0.0,0.0
+ Ampirion zonal load forecast,132,0,0.0,0.0
+ Ampirion zonal load forecast,133,0,0.0,0.0
+ Ampirion zonal load forecast,134,0,0.0,0.0
+ Ampirion zonal load forecast,135,0,0.0,0.0
+ Ampirion zonal load forecast,136,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,137,1,0.003215434083601286,0.3215434083601286
+ Ampirion zonal load forecast,138,0,0.0,0.0
+ Ampirion zonal load forecast,139,0,0.0,0.0
+ Ampirion zonal load forecast,140,0,0.0,0.0
+ Ampirion zonal load forecast,141,0,0.0,0.0
+ Ampirion zonal load forecast,142,0,0.0,0.0
+ Ampirion zonal load forecast,143,6,0.01929260450160772,1.9292604501607717
+ Ampirion zonal load forecast,144,81,0.2604501607717042,26.04501607717042
+ Ampirion zonal load forecast,145,2,0.006430868167202572,0.6430868167202572
+ Ampirion zonal load forecast,146,0,0.0,0.0
+ Ampirion zonal load forecast,147,0,0.0,0.0
+ Ampirion zonal load forecast,148,0,0.0,0.0
+ Ampirion zonal load forecast,149,0,0.0,0.0
+ Ampirion zonal load forecast,150,0,0.0,0.0
+ Ampirion zonal load forecast,151,0,0.0,0.0
+ Ampirion zonal load forecast,152,0,0.0,0.0
+ Ampirion zonal load forecast,153,0,0.0,0.0
+ Ampirion zonal load forecast,154,0,0.0,0.0
+ Ampirion zonal load forecast,155,4,0.012861736334405145,1.2861736334405145
+ Ampirion zonal load forecast,156,0,0.0,0.0
+ Ampirion zonal load forecast,157,0,0.0,0.0
+ Ampirion zonal load forecast,158,0,0.0,0.0
+ Ampirion zonal load forecast,159,0,0.0,0.0
+ Ampirion zonal load forecast,160,0,0.0,0.0
+ Ampirion zonal load forecast,161,0,0.0,0.0
+ Ampirion zonal load forecast,162,0,0.0,0.0
+ Ampirion zonal load forecast,163,0,0.0,0.0
+ Ampirion zonal load forecast,164,0,0.0,0.0
+ Ampirion zonal load forecast,165,0,0.0,0.0
+ Ampirion zonal load forecast,166,0,0.0,0.0

@@ -1,0 +1,189 @@
+[
+  {
+    "exogenous": " System load forecast",
+    "endogenous": "OT",
+    "windows": 311,
+    "mean_lag_hours": 101.96141479099678,
+    "median_lag_hours": 143.0,
+    "mean_abs_score": 0.772976815700531,
+    "median_abs_score": 0.7850079536437988,
+    "most_common_lags": [
+      {
+        "lag_steps": 144,
+        "windows": 147,
+        "fraction": 0.47266881028938906
+      },
+      {
+        "lag_steps": 24,
+        "windows": 46,
+        "fraction": 0.14790996784565916
+      },
+      {
+        "lag_steps": 72,
+        "windows": 24,
+        "fraction": 0.07717041800643087
+      },
+      {
+        "lag_steps": 84,
+        "windows": 18,
+        "fraction": 0.05787781350482315
+      },
+      {
+        "lag_steps": 96,
+        "windows": 13,
+        "fraction": 0.04180064308681672
+      },
+      {
+        "lag_steps": 36,
+        "windows": 10,
+        "fraction": 0.03215434083601286
+      },
+      {
+        "lag_steps": 60,
+        "windows": 7,
+        "fraction": 0.022508038585209004
+      },
+      {
+        "lag_steps": 108,
+        "windows": 6,
+        "fraction": 0.01929260450160772
+      },
+      {
+        "lag_steps": 143,
+        "windows": 5,
+        "fraction": 0.01607717041800643
+      },
+      {
+        "lag_steps": 156,
+        "windows": 5,
+        "fraction": 0.01607717041800643
+      }
+    ],
+    "zero_score_fallback_windows": 0,
+    "lag_histogram": {
+      "1": 2,
+      "12": 1,
+      "23": 4,
+      "24": 46,
+      "25": 1,
+      "30": 2,
+      "36": 10,
+      "41": 2,
+      "48": 3,
+      "54": 1,
+      "60": 7,
+      "71": 1,
+      "72": 24,
+      "76": 1,
+      "78": 2,
+      "83": 1,
+      "84": 18,
+      "96": 13,
+      "108": 6,
+      "119": 1,
+      "126": 3,
+      "132": 4,
+      "143": 5,
+      "144": 147,
+      "145": 1,
+      "156": 5
+    }
+  },
+  {
+    "exogenous": " Zonal COMED load foecast",
+    "endogenous": "OT",
+    "windows": 311,
+    "mean_lag_hours": 84.89067524115755,
+    "median_lag_hours": 83.0,
+    "mean_abs_score": 0.7434399127960205,
+    "median_abs_score": 0.7518962025642395,
+    "most_common_lags": [
+      {
+        "lag_steps": 143,
+        "windows": 93,
+        "fraction": 0.2990353697749196
+      },
+      {
+        "lag_steps": 23,
+        "windows": 92,
+        "fraction": 0.2958199356913183
+      },
+      {
+        "lag_steps": 71,
+        "windows": 19,
+        "fraction": 0.06109324758842444
+      },
+      {
+        "lag_steps": 144,
+        "windows": 16,
+        "fraction": 0.05144694533762058
+      },
+      {
+        "lag_steps": 83,
+        "windows": 13,
+        "fraction": 0.04180064308681672
+      },
+      {
+        "lag_steps": 95,
+        "windows": 8,
+        "fraction": 0.02572347266881029
+      },
+      {
+        "lag_steps": 47,
+        "windows": 7,
+        "fraction": 0.022508038585209004
+      },
+      {
+        "lag_steps": 107,
+        "windows": 7,
+        "fraction": 0.022508038585209004
+      },
+      {
+        "lag_steps": 84,
+        "windows": 7,
+        "fraction": 0.022508038585209004
+      },
+      {
+        "lag_steps": 24,
+        "windows": 6,
+        "fraction": 0.01929260450160772
+      }
+    ],
+    "zero_score_fallback_windows": 0,
+    "lag_histogram": {
+      "11": 1,
+      "23": 92,
+      "24": 6,
+      "35": 2,
+      "36": 1,
+      "40": 1,
+      "47": 7,
+      "53": 5,
+      "54": 1,
+      "59": 3,
+      "60": 3,
+      "70": 1,
+      "71": 19,
+      "75": 1,
+      "77": 1,
+      "78": 2,
+      "83": 13,
+      "84": 7,
+      "95": 8,
+      "96": 1,
+      "101": 1,
+      "102": 3,
+      "107": 7,
+      "108": 5,
+      "112": 1,
+      "119": 1,
+      "120": 1,
+      "126": 1,
+      "131": 5,
+      "132": 1,
+      "143": 93,
+      "144": 16,
+      "166": 1
+    }
+  }
+]
